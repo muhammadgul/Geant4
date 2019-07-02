@@ -14,6 +14,8 @@ https://wiki.audacityteam.org/wiki/Upgrade_to_gcc_4.9
 #  Using the first method, just type
 make
 
+# Setting Heet environment, add this to .bashrc file
+export HEED_DATABASE=$GARFIELD_HOME/Heed/heed++/database/
 #Following for the second method
 -------------------------------
 # Building the library
